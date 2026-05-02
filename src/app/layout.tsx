@@ -9,7 +9,7 @@ const geist = Geist({
   subsets: ["latin"],
 });
 
-const siteUrl = "https://alemprofi.kz";
+const siteUrl = "https://alemprofi.com";
 
 export const metadata: Metadata = {
   title: {
