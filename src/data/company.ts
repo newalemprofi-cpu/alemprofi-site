@@ -15,6 +15,7 @@ export const navLinks: NavLink[] = [
   { label: "О компании", href: "/about" },
   { label: "Программы", href: "/programs" },
   { label: "Контакты", href: "/contacts" },
+  { label: "Курсы повышения квалификации педагогов", href: "/course" },
 ];
 
 export const footerLinks: NavLink[] = [
